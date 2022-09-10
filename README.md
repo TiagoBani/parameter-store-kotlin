@@ -14,6 +14,8 @@ Example project to recovery parameters of AWS Parameter Store
 - No need internet
 - Attribute param receive value `value local`
 
+![Execution Local](./assets/execution_local.png "Parameter param")
+
 ### Parameter Store
 - Need variable AWS_ACCESS_KEY_ID
 - Need variable AWS_SECRET_ACCESS_KEY
@@ -22,4 +24,4 @@ Example project to recovery parameters of AWS Parameter Store
 
 ![Parameter store](./assets/parameter_store.png "Parameter param")
 
-![Execution](./assets/execution_AdobeExpress.gif "Execution")
+![Execution with Aws Parameter store](./assets/execution_remote.png "Parameter param")
