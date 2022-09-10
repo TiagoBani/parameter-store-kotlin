@@ -1,0 +1,8 @@
+aws:
+  paramstore:
+    enabled: true
+    name: parameter-store-kotlin
+    prefix: /config
+    defaultContext: application
+    profileSeparator: _
+    failFast: true
