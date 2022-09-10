@@ -25,3 +25,9 @@ Example project to recovery parameters of AWS Parameter Store
 ![Parameter store](./assets/parameter_store.png "Parameter param")
 
 ![Execution with Aws Parameter store](./assets/execution_remote.png "Parameter param")
+
+
+## Usefully information
+
+- [Location variable](https://github.com/TiagoBani/parameter-store-kotlin/blob/main/src/main/kotlin/com/tiagobani/parameterstorekotlin/ParameterStoreKotlinApplication.kt#L13)
+- [Configuration store](https://github.com/TiagoBani/parameter-store-kotlin/blob/main/src/main/resources/bootstrap.yml)
