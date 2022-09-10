@@ -23,3 +23,7 @@ Example project to recovery parameters of AWS Parameter Store
 ![Parameter store](./assets/parameter_store.png "Parameter param")
 
 ![Execution](./assets/execution.gif "Execution")
+
+<video width="320" height="240" controls>
+  <source src="./assets/execution.mov" type="video/mp4">
+</video>
