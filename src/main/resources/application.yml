@@ -1,4 +1,12 @@
 
 spring:
-  config:
-    import: 'optional:configserver:'
+  application:
+    name: parameter-store-kotlin
+
+cloud:
+  aws:
+    region:
+      auto: false
+      static: us-east-1
+    stack:
+      auto: false
