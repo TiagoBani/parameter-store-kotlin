@@ -10,7 +10,7 @@ import org.springframework.context.annotation.Bean
 
 @SpringBootApplication
 class ParameterStoreKotlinApplication(
-	@Value("\${param:default}")
+	@Value("\${param:value local}")
 	private val param: String
 ) {
 
