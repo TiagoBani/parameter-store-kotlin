@@ -22,4 +22,4 @@ Example project to recovery parameters of AWS Parameter Store
 
 ![Parameter store](./assets/parameter_store.png "Parameter param")
 
-![Execution](./assets/execution.mov "Execution")
+![Execution](./assets/execution.gif "Execution")
