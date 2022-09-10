@@ -5,4 +5,4 @@ aws:
     prefix: /config
     defaultContext: application
     profileSeparator: _
-    failFast: true
+    failFast: false
